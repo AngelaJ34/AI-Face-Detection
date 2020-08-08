@@ -40,7 +40,9 @@ Link: https://www.youtube.com/watch?v=hPCTwxF0qf4
 # Dataset
 
 OpenCV Documentation:
+https://docs.opencv.org/2.4/modules/imgproc/doc/miscellaneous_transformations.html?highlight=.cvtcolor#cv2.cvtColor
 
+Haarcascade Frontal Face:
 https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml
 
 # Run Program Instructions
