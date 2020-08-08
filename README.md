@@ -30,26 +30,18 @@ This command above checks to ensure you installed the following without error
 
 # Machine Learning Files(Haar Cascade xml files)
 
-Faces:
-People:
+Faces Detector XML:https://github.com/opencv/opencv/tree/master/data/haarcascades
 
-# Video of Peopl and Facial features Source
 
-Tesla Dashcam: https://www.youtube.com/watch?v=d4L1Pte7zVc
+# Video of Frontal Face View (Haar Cascade Algorithm Visualization):
 
-Motorcycle Dashcam of pedestrians : https://www.youtube.com/watch?v=WriuvU1rXkc
-
-BOTH VIDEO FILES MUST BE DOWNLOADED
+Link: https://www.youtube.com/watch?v=hPCTwxF0qf4
 
 # Dataset
 
 OpenCV Documentation:
 
-https://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html?highlight=detectmultiscale
-
-Faces Dataset (Cal Tech):
-
-Link: 
+https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml
 
 # Run Program Instructions
 
