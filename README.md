@@ -1,5 +1,6 @@
 # Overview
 
+ This AI face detection program using images to detect similar facial structures of different faces. Haar Cascade which is named after Haar who created the cascade algorithm filters down until it finds an image to best resembles a person within a rectangle. Haar features are the rudimentary blocks that allow this alogrithm used to capture the likeness of a face using edge, line, and four-rectangle features. These features depend on gray scaled images because it is able to pick up the light and dark areas of a person in an image.
 
 
 <b> 1. Instructions For Installation </b>
@@ -47,3 +48,13 @@ https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcas
 
 # Run Program Instructions
 
+1.) Once all necessary files are downloaded, open terminal and change directory into folder
+<p>
+2.) Ensure the proper version of python is running once inside the folder
+<p>
+3.) Then type ls in terminal to ensure you are in the correct directory and can see all file
+<p>
+4.) In terminal type in: python3 Car_and_Pedestrian_Tracking.py to run the program
+<p>
+5.) To quit out press control + C  in terminal to stop the program
+<p>
