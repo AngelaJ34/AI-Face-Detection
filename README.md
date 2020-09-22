@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcas
 <p>
 3.) Then type ls in terminal to ensure you are in the correct directory and can see all file
 <p>
-4.) In terminal type in: python3 Car_and_Pedestrian_Tracking.py to run the program
+4.) In terminal type in: python3 Face_Detector.py to run the program
 <p>
 5.) To quit out press control + C  in terminal to stop the program
 <p>
